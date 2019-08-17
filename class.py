@@ -119,5 +119,5 @@ print('\U0000221A D =  ',sqrt(D))
 if D >= 0:
     print('x1 = {0} \n x2 = {1}'.format((-b + sqrt(D))/(2*a),(-b - sqrt(D))/(2*a)))
 else:
-    print("D<0 this equation havan't roots")
+    print("D<0 this equation havеn't roots")
 
